@@ -1,0 +1,2 @@
+# Quick-quizz
+Exam platform
